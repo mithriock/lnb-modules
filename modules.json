@@ -1,0 +1,27 @@
+[
+    {
+        "authors": [
+            "Rodrigo Mu\u00F1oz"
+        ],
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "2.20.0"
+            }
+        ],
+        "description": "description...",
+        "groups": [
+            "providers"
+        ],
+        "iconUrl": "http://beta.linkbild.com/content/app/img/logos/logo-linkbild-white.png",
+        "id": "Linkbild.Providers",
+        "owners": [
+            "Linkbild"
+        ],
+        "packageUrl": "",
+        "platformVersion": "1.0.0",
+        "projectUrl": "",
+        "title": "Providers module",
+        "version": "1.0.0"
+    }
+]
