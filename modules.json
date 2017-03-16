@@ -4,10 +4,6 @@
             "Rodrigo Mu\u00F1oz"
         ],
         "dependencies": [
-            {
-                "id": "VirtoCommerce.Core",
-                "version": "2.20.0"
-            }
         ],
         "description": "description...",
         "groups": [
